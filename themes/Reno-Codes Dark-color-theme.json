@@ -43,7 +43,7 @@
         "editorGutter.modifiedBackground": "#0078d4",
         "editorIndentGuide.activeBackground1": "#707070",
         "editorIndentGuide.background1": "#404040",
-        "editorLineNumber.activeForeground": "#cccccc",
+        "editorLineNumber.activeForeground": "#cc3343",
         "editorLineNumber.foreground": "#6e7681",
         "editorOverviewRuler.border": "#010409",
         "editorWidget.background": "#202020",
@@ -120,7 +120,7 @@
         "tab.unfocusedHoverBackground": "#1f1f1f",
         "terminal.foreground": "#cccccc",
         "terminal.inactiveSelectionBackground": "#3a3d41",
-        "terminal.tab.activeBorder": "#0078d4",
+        "terminal.tab.activeBorder": "#cc3343",
         "textBlockQuote.background": "#2b2b2b",
         "textBlockQuote.border": "#616161",
         "textCodeBlock.background": "#2b2b2b",
@@ -741,23 +741,23 @@
                 "foreground": "#6CE0D0"
             }
         },
-        {
-            "scope": [
-                "entity.name.function.js",
-                "variable.other.constant.js",
-                "meta.definition.variable.js",
-                "meta.var-single-variable.expr.js"
-            ],
-            "settings": {
-                "foreground": "#7EECAF"
-            }
-        },
-        {
-            "scope": ["entity.name.function.jsx"],
-            "settings": {
-                "foreground": "#7EECAF"
-            }
-        },
+        // {
+        //     "scope": [
+        //         "entity.name.function.js",
+        //         "variable.other.constant.js",
+        //         "meta.definition.variable.js",
+        //         "meta.var-single-variable.expr.js"
+        //     ],
+        //     "settings": {
+        //         "foreground": "#7EECAF"
+        //     }
+        // },
+        // {
+        //     "scope": ["entity.name.function.jsx"],
+        //     "settings": {
+        //         "foreground": "#7EECAF"
+        //     }
+        // },
         {
             "scope": "token.info-token",
             "settings": {
