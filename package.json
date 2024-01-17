@@ -1,0 +1,35 @@
+{
+    "name": "reno-codes-dark-theme",
+    "displayName": "Reno-Codes Dark Theme",
+    "description": "Reno-Codes clean dark theme!",
+    "version": "0.0.1",
+    "publisher": "Reno-Codes",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/renocodes/reno-codes-dark-theme"
+    },
+    "keywords": [
+        "dark theme",
+        "theme",
+        "reno codes",
+        "renocodes",
+        "reno-codes dark",
+        "reno codes dark theme",
+        "vscode theme"
+    ],
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Reno-Codes Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Reno-Codes Dark-color-theme.json"
+            }
+        ]
+    }
+}
