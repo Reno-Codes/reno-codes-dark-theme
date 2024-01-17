@@ -2,6 +2,11 @@
 
 Reno Codes Dark Theme is a visually pleasing and syntax-highlighting color theme designed for Visual Studio Code. It provides a dark and immersive coding experience, enhancing your focus and productivity. The theme is carefully crafted with a combination of subtle and vibrant colors to create a comfortable and aesthetically pleasing environment for your coding sessions.
 
+## Preview images
+
+![Reno Codes Dark Theme Preview 1](https://github.com/Reno-Codes/reno-codes-dark-theme/blob/master/images/scr1.png)
+![Reno Codes Dark Theme Preview 2](https://github.com/Reno-Codes/reno-codes-dark-theme/blob/master/images/scr2.png)
+
 ## Installation
 
 ```bash
